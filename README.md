@@ -21,3 +21,23 @@ BPI のように自分の武器を測るのではなく、日々の成長を記�
 0.2.0 Prettier を村松さんに追加していただいたりしました(ありがとうございます)
 0.1.0 CSV を読み込んで、各レベルの統計情報、スコアレート順のプレー済みの曲を表示する機能を追加しました
 0.0.1 AA (SPA) の点数が分かるようになりました
+
+
+## Build Setup
+
+```bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:3000
+$ npm run dev
+
+# build for production and launch server
+$ npm run build
+$ npm run start
+
+# generate static project
+$ npm run generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
